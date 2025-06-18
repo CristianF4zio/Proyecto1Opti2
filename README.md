@@ -3,7 +3,7 @@
 1.  Navega al directorio del proyecto:
 
     ```bash
-    cd my-python-app
+    cd proyecto-spline
     ```
 
 2.  Instala las dependencias:
